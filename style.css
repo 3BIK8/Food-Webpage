@@ -119,7 +119,6 @@ header.active .navbar a {
   font-weight: 500;
 }
 .btn:hover {
-  letter-spacing: 2px;
   color: #fff;
   background: var(--main-color);
   text-transform: uppercase;
